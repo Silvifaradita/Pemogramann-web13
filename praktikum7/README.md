@@ -1,9 +1,11 @@
-|Nama |_Muhamad Jati Wasesa_|
-| :- | :- |
-|**Nim** |_312210481_|
-|**Kelas** |_TI.22.A.5_|
-|**Mata Kuliah**|_Pemgraman Web 2_|
-|**Tugas** |_Praktikum 7_|
+Nama : Silvi Fara Dita
+
+Kelas : ti.22.A5
+
+Nim : 312210498
+
+**Mata Kuliah**: Pemgraman Web 2
+
 
 ![gambar](README_img/Codeigniter.png)
 ![gambar](README_img/postman_logo.png)
